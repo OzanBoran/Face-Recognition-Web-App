@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/OzanBoran/yuztanima/static/css/main.289e242f.chunk.css",
+    "main.js": "/OzanBoran/yuztanima/static/js/main.ca337c8e.chunk.js",
+    "main.js.map": "/OzanBoran/yuztanima/static/js/main.ca337c8e.chunk.js.map",
+    "runtime-main.js": "/OzanBoran/yuztanima/static/js/runtime-main.3bf98d67.js",
+    "runtime-main.js.map": "/OzanBoran/yuztanima/static/js/runtime-main.3bf98d67.js.map",
+    "static/css/2.3c03f26f.chunk.css": "/OzanBoran/yuztanima/static/css/2.3c03f26f.chunk.css",
+    "static/js/2.1d858334.chunk.js": "/OzanBoran/yuztanima/static/js/2.1d858334.chunk.js",
+    "static/js/2.1d858334.chunk.js.map": "/OzanBoran/yuztanima/static/js/2.1d858334.chunk.js.map",
+    "index.html": "/OzanBoran/yuztanima/index.html",
+    "precache-manifest.d16c3fd63c2a40858031f7920f0f0519.js": "/OzanBoran/yuztanima/precache-manifest.d16c3fd63c2a40858031f7920f0f0519.js",
+    "service-worker.js": "/OzanBoran/yuztanima/service-worker.js",
+    "static/css/2.3c03f26f.chunk.css.map": "/OzanBoran/yuztanima/static/css/2.3c03f26f.chunk.css.map",
+    "static/css/main.289e242f.chunk.css.map": "/OzanBoran/yuztanima/static/css/main.289e242f.chunk.css.map",
+    "static/js/2.1d858334.chunk.js.LICENSE.txt": "/OzanBoran/yuztanima/static/js/2.1d858334.chunk.js.LICENSE.txt",
+    "static/media/electric-brain.jpg": "/OzanBoran/yuztanima/static/media/electric-brain.371f1f9e.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3bf98d67.js",
+    "static/css/2.3c03f26f.chunk.css",
+    "static/js/2.1d858334.chunk.js",
+    "static/css/main.289e242f.chunk.css",
+    "static/js/main.ca337c8e.chunk.js"
+  ]
+}
